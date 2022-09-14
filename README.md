@@ -13,3 +13,9 @@ minimize(loss_function)+complexity(model)
 ```
 
 Our training optimization algorithm is now a function of two terms: the loss term, which measures how well the model fits the data, and the regularization term, which measures model complexity.
+
+### Reference:
+    
+[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/l2-regularization)
+
+[Towards Data Science](https://towardsdatascience.com/ridge-and-lasso-regression-a-complete-guide-with-python-scikit-learn-e20e34bcbf0b)
